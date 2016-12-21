@@ -1,0 +1,21 @@
+To Do
+
+Create Backend
+-Tables
+--Players/SavedGames
+--Inventory
+---Keys
+---Other Items
+--Attributes
+---Strength
+---Wisdom
+---Luck
+--Rooms
+--
+
+Create Frontend
+-4 options for each room
+-ui-router to create states for each room
+-inventory/attributes screen
+-pause menu with save/load/quit
+-new game screen
