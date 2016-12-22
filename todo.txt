@@ -19,3 +19,7 @@ Create Frontend
 -inventory/attributes screen
 -pause menu with save/load/quit
 -new game screen
+-really simple, retro graphics
+
+Escape Room Game Maker - good reference:
+https://www.youtube.com/watch?v=ZKSOPNIzWx8
