@@ -11,7 +11,7 @@ Create Backend
 ---Wisdom
 ---Luck
 --Rooms
---
+--2 stories?
 
 Create Frontend
 -4 options for each room
